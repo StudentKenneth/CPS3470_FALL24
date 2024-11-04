@@ -1,6 +1,6 @@
 <?php
  $host ="imc.kean.edu";
- $username="demo";
- $password="xxxxxx";
- $dbname="CPS3740_yyyy";
+ $username="markenne";
+ $password="1018997";
+ $dbname="CPS3740_2024F";
 ?>
